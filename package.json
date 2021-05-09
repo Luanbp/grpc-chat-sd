@@ -1,0 +1,16 @@
+{
+  "name": "grpc-chat",
+  "version": "1.0.0",
+  "description": "Projeto de Sistemas distribuidos, IFPB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luan Bruno",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.1",
+    "grpc": "^1.24.9",
+    "fs": "0.0.1-security"
+  }
+}
